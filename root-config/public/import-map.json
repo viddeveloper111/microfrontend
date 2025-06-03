@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "react": "https://cdn.jsdelivr.net/npm/react@18.2.0/umd/react.development.js",
+    "react-dom": "https://cdn.jsdelivr.net/npm/react-dom@18.2.0/umd/react-dom.development.js",
+    "app1": "http://localhost:8500/app1.js",
+    "app2": "http://localhost:8600/app2.js"
+  }
+}
